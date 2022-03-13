@@ -59,7 +59,9 @@ Back around to the beginning! First testing to make sure that my rearranged file
 
 And then... so many little details to re-orient myself to. Seems almost old-fashioned to just go ahead and open JL or Spyder without considering the environment to use, but back at this point, that wasn't a concern yet. So Long Ago! Wow.
 
-This is going very slowly, as I have very little free time right now. However given that I've been waiting impatiently to do this review/rerun/relearn process ever since I first turned this in, it feels very speedy and exhilerating!
+This is going very slowly, as I have very little free time right now. However given that I've been waiting impatiently to do this review/rerun/relearn process ever since I first turned this in, it feels very speedy and exhilerating! And it's a very positive experience now to be able to incorporate not only all I've 'learned/been exposed to', but to also have the range of resources I have collected at this point (and have reviewed/familiarized myself with), and also to have the approach in place now that I developed over the course of all of the homework assignments. As the sessions continued, and often it was difficult to both keep up with current material while applying prior material (often on completely different content) to homework assignment; I created a process of listing out each action that needed to be accomplished in the assignment, and then related to that I would note resources / examples applicable to that action. Looking forward to applying that to this exercise. 
+
+Also just have to say again, I wish this hadn't involved accounting, or had involved accounting in a way that was a bit realistic. Anything with numbers would have worked. The content/fact pattern etc.. remains a huge hurdle, but now a familiar hurdle which is easier to adapt to.
 
 
 ### Coda_post/op 9.26.21
