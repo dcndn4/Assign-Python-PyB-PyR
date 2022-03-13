@@ -59,6 +59,8 @@ Back around to the beginning! First testing to make sure that my rearranged file
 
 And then... so many little details to re-orient myself to. Seems almost old-fashioned to just go ahead and open JL or Spyder without considering the environment to use, but back at this point, that wasn't a concern yet. So Long Ago! Wow.
 
+This is going very slowly, as I have very little free time right now. However given that I've been waiting impatiently to do this review/rerun/relearn process ever since I first turned this in, it feels very speedy and exhilerating!
+
 
 ### Coda_post/op 9.26.21
 
