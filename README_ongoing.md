@@ -1,10 +1,10 @@
-# HW 2 assignment - Internal & Inputs
+# HW 2 assignment - Ongoing version, back in main (public) repo
 
-Note: actual submitted repo is at: https://github.com/dcndn4/Assign-Python-PyB-PyR.git
 
 ## Contents
 
 ##### >   []  Turned in: Assign-Python-PyB-PyR Readme
+### Coda_ March '22
 ##### >   []  Coda_post/op 9.26.21
 
 
