@@ -57,6 +57,8 @@ I am looking forward to completing the assignment subsequently, as my skills imp
 
 Back around to the beginning! First testing to make sure that my rearranged files on my desktop are still magically linked up to this repo. So cool!
 
+And then... so many little details to re-orient myself to. Seems almost old-fashioned to just go ahead and open JL or Spyder without considering the environment to use, but back at this point, that wasn't a concern yet. So Long Ago! Wow.
+
 
 ### Coda_post/op 9.26.21
 
