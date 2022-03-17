@@ -63,6 +63,10 @@ This is going very slowly, as I have very little free time right now. However gi
 
 Also just have to say again, I wish this hadn't involved accounting, or had involved accounting in a way that was a bit realistic. Anything with numbers would have worked. The content/fact pattern etc.. remains a huge hurdle, but now a familiar hurdle which is easier to adapt to.
 
+I feel like in this case - and the other homework assignments as well; would be helpful to have a clear goal of what skillset/awareness is to be gained. And outside of that, keep the rest simple and clear. So that the participant doesn't get tripped up on a not-really-crucial detail. The other helpful thing would be - especially in those cases where the person did not achieve the goal, and received a grade that reflected that - go ahead and provide the solution then after the fact. 
+
+I was tripped up so much by the language used, which was confusing to me from accounting standpoint, and I didn't know if I could go ahead and rename things for myself to make my work easier, or if some of the terms used were 'reserved' terms or had to be in that specific pattern etc.. So much clearer now!
+
 
 ### Coda_post/op 9.26.21
 
